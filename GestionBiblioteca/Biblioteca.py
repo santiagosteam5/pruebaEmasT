@@ -1,5 +1,4 @@
 import sqlite3
-import os
 
 class Item:
     def __init__(self, id, name, price):
